@@ -28,4 +28,3 @@ Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
 ## 4. Link a demo
 Aquí puedes visualizar mi proyecto terminado:[Clonación de Google](clonaciongoogle5.netlify.app)
-
